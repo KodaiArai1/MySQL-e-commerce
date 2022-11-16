@@ -10,4 +10,4 @@ utm NULL suggests utm source tracker not put in place or not from utm source.
 I use 'created_at' to simulate a timeline for this growing company, as if I am working there. 
 
 ### In addition, 
-there's also a [mid-term project](https://github.com/KodaiArai1/MySQL-e-commerce/blob/main/Mid%20Course%20Project.sql) where I summarise how the company has been performing for the first 6 months. This includes convertion rates, webiste test analysis and showcasing profit. I then visualised the findings [here]() in Tableua to be presented to the board members. 
+There's also a [mid-term project](https://github.com/KodaiArai1/MySQL-e-commerce/blob/main/Mid%20Course%20Project.sql) where I summarise how the company has been performing for the first 6 months. This includes convertion rates, webiste test analysis and showcasing profit. I then visualised the findings [here]() in Tableua to be presented to the board members. 
