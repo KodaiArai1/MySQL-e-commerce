@@ -4,7 +4,7 @@ For this project, I followed along a course which simulates a hypothetical e-com
 
 The [code](https://github.com/KodaiArai1/MySQL-e-commerce/blob/main/ShowCase%20Project.sql) shows how to look for the answers to the questions asked by the CEO, Website Manager and other members of this company. 
 
-NOTES ABOUT DATABASE
+### NOTES ABOUT DATABASE
 The database starts from March 2012 (the poduct launch date).
 utm NULL suggests utm source tracker not put in place or not from utm source.
 I use 'created_at' to simulate a timeline for this growing company, as if I am working there. 
